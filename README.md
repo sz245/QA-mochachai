@@ -1,9 +1,9 @@
 # Quality Assurance with Chai
 
-Run on Terminal to start the tests:
+Run the Mocha Chai on Terminal for the tests:
 ~~~
-npm install
-npm run start
+npm install #install dependencies 
+npm run start #run tests
 ~~~
-
-This is the boilerplate for the Quality Assurance with Chai lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-and-testing-with-chai/
+Link to Template: https://github.com/freeCodeCamp/boilerplate-mochachai.git
+Link to lessons: https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-and-testing-with-chai/
